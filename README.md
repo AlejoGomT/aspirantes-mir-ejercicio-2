@@ -1,2 +1,10 @@
 Autor Alejandro Gomez T.
-Compañero Carlos Espejo
+
+Compañeros: Carlos Espejo
+            Aldemar
+            Alexis
+            Angie
+            Anny Ravelo
+            Arturo
+            Brayan Torres
+            Carlos Gonzales
